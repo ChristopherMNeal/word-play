@@ -1,8 +1,8 @@
-# _ _
+# _Word Play_
 
-#### By _**Christopher Neal &**_
+#### By _**Christopher Neal & Jeff Lai**_
 
-#### _ _
+#### _A page that Flips Your Words Around_
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_This page practices_
+_This page practices array methods by transforming input text._
 
 ## Setup/Installation Requirements
 
@@ -29,4 +29,4 @@ _None_
 
 _[MIT](https://opensource.org/licenses/MIT)_
 
-Copyright (c) _21 October 2021_ _Christopher Neal &_
+Copyright (c) _25 October 2021_ _Christopher Neal & Jeff Lai_
